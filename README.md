@@ -1,4 +1,4 @@
-# Unity ユーザのための Git ハンズオン #2
+# Unity ユーザのための Git ハンズオン
 
 練習用リポジトリです。
 
@@ -7,7 +7,7 @@
 ### GitHub アカウントを伝える
 
 1. GitHub アカウントを作成する
-1. [こちらの Issue](https://github.com/monry/HandsOn_20190509/issues/1) にコメントする
+1. [Issues](https://github.com/monry/Unity_Git_HandsOn/issues) から当該日付の Issue を探して、コメントする
 1. [@monry](https://github.com/monry) が Contributer に追加する
 
 ### 共同作業してみる
