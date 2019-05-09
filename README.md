@@ -8,7 +8,7 @@
 
 1. GitHub アカウントを作成する
 1. [Issues](https://github.com/monry/Unity_Git_HandsOn/issues) から当該日付の Issue を探して、コメントする
-1. [@monry](https://github.com/monry) が Contributer に追加する
+1. [@monry](https://github.com/monry) が Contributer に追加します
 
 ### 共同作業してみる
 
